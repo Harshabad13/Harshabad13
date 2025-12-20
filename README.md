@@ -31,10 +31,12 @@ AI / ML:
 -	Scikit-learn
 -	TensorFlow
 -	Matplotlib, Seaborn
+-	PyTorch, Transformers, Hugging Face
 
 Tools & Platforms:
 -	Git & GitHub
 -	Google Collab
+-	HTML & CSS, TailwindCSS
 
 ---
 
