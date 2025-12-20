@@ -25,7 +25,6 @@
 Languages:
 - Python
 - C / C++
--	SQL
 
 AI / ML:
 -	NumPy, Pandas
