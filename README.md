@@ -29,7 +29,7 @@ Languages:
 AI / ML:
 -	NumPy, Pandas
 -	Scikit-learn
--	TensorFlow / Keras (Basics)
+-	TensorFlow
 -	Matplotlib, Seaborn
 
 Tools & Platforms:
