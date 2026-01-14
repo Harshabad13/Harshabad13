@@ -6,7 +6,7 @@
 
 <!-- Typing Animation with Titles -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=FF6E96&center=true&vCenter=true&width=750&lines=Machine+Learning+Enthusiast;Aspiring+Software+Developer;Python;Deep+Learning;Keep+Learning+Keep+Building+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=FF6E96&center=true&vCenter=true&width=750&lines=Machine+Learning+Enthusiast;Software+Developer;Python;Deep+Learning;Keep+Learning+Keep+Building+🚀" />
 </p>
 
 ---
