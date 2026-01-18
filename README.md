@@ -39,6 +39,11 @@ Tools & Platforms:
 -	HTML & CSS, TailwindCSS
 
 ---
+## 🏆 Achievements & Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshabad13&theme=react-dark)
+
+
 
 
 ### 🌍 Connect with Me  
