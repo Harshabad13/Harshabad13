@@ -53,7 +53,7 @@ Tools & Platforms:
 [![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/singh_codes1313/)
 
 ---
-
+## 🐍 GitHub Snake
 <!-- SNAKE ANIMATION (Requires Workflow) -->
 <div align="center">
   <img src="https://github.com/suraj7880314386/suraj7880314386/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -63,9 +63,8 @@ Tools & Platforms:
 <hr/>
 <div align="center">
   <p><i>"Quality is not an act, it is a habit."</i></p>
-  <img src="https://komarev.com/ghpvc/?username=suraj7880314386&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Harshabad13&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div
 
-✨ *Keep Learning, Keep Building, Keep Growing.* ✨
-## 🐍 GitHub Snake
+
 
